@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Card aceOfSpades = new Card("Ace", "Spades", 11);
+aceOfSpades.Print();
